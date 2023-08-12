@@ -1,0 +1,12 @@
+table {
+    width: 200px;
+
+}
+td{
+    border: 1px solid blue;
+    padding: 4px;
+}
+th{
+    border: 1px solid blue;
+    background-color: beige;
+}
